@@ -1,14 +1,3 @@
-Group NO-18
-Group members:-
-Amit Kumar-IIT2021023
-Abhishek Anand-IIT2021028
-Gaurav Kumar-IIT2021043
-Kundan kumar-IIT2021062
-Deepak Kumar Verma-IIT2021063
-Shekhar Kumar-IIT2021071
-
-
-
 # Alumni-Management-System
 Alumni Management System using PHP &amp; MySql
 
