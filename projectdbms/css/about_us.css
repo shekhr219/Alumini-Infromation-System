@@ -1,0 +1,140 @@
+@charset "utf-8";
+/* CSS Document */
+/*body
+{
+	background-color:rgb(68, 173, 107);
+}
+.p1
+{
+	color:#3a2891;
+	font-size:30px;
+	font-style:normal;
+	font-weight:bolder;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	padding-left:50px;
+	padding-right:50px;
+}
+.p2
+{
+	color:#3a2891;
+	font-size:20px;
+	font-weight:bold;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	padding-left:50px;
+	padding-right:50px;
+	text-decoration:underline;
+}
+.p3
+{
+	font-size:16px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	padding-left:50px;
+	padding-right:50px;
+	line-height:1.5;
+}
+.ul2
+{
+	font-size:16px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	list-style-type:disc;
+	line-height:1.5;
+	margin-left:50px;
+	padding-left:50px;
+	padding-right:50px;
+}
+
+.about_image
+{
+	text-align:center;
+}
+
+#about_totop
+{
+	display: none;
+  	position: fixed;
+  	bottom: 20px;
+  	right: 30px;
+  	z-index: 99;
+  	border: none;
+  	outline: none;
+  	background-color:rgb(166, 166, 8);
+	padding:10px;
+  	border-radius: 4px;
+}
+#about_totop:hover
+{
+	background-color:rgb(0, 255, 17);
+}*/
+@charset "utf-8";
+/* CSS Document */
+
+/* Body Styles */
+body {
+	background-color: #44ad6b;
+}
+
+/* Paragraph Styles */
+.p1 {
+	color: #3a2891;
+	font-size: 36px;
+	font-weight: bold;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	padding: 0 50px;
+	text-align: center;
+}
+
+.p2 {
+	color: #3a2891;
+	font-size: 24px;
+	font-weight: bold;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	padding: 0 50px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.p3 {
+	font-size: 18px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	padding: 0 50px;
+	line-height: 1.5;
+}
+
+/* Unordered List Styles */
+.ul2 {
+	font-size: 18px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	list-style-type: disc;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0 50px;
+}
+
+/* Image Styles */
+.about_image {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 50px 0;
+}
+
+/* Button Styles */
+#about_totop {
+	display: none;
+  	position: fixed;
+  	bottom: 20px;
+  	right: 30px;
+  	z-index: 99;
+  	border: none;
+  	outline: none;
+  	background-color: #1f5407;
+	padding: 10px 20px;
+  	border-radius: 4px;
+  	font-size: 16px;
+  	font-weight: bold;
+}
+
+#about_totop:hover {
+	background-color: #93ab0c;
+	cursor:pointer;
+}
